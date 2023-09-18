@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arman Sharif</h1>
 
 **arman9022/arman9022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://miro.medium.com/v2/resize:fit:1000/1*yX1tKixQk7eAWxX9bktJ4Q.gif" alt="coding" width="400px" align="right">
+<img src="https://i.gifer.com/19Fu.gif" alt="coding" width="400px" align="right">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
