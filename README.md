@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<h1 align="center">Hi 👋, I'm Arman Sharif</h1>
 
 **arman9022/arman9022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
