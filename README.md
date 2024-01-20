@@ -3,7 +3,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://fb.com/arman109022" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="engrshuvo2003" width="70" height="auto"/></a>
-<a href="https://www.youtube.com/@arman.sharif" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@engrshuvodas" width="70" height="auto"/></a>
+<a href="https://www.youtube.com/@arman.sharif" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@engrshuvodas" width="auto" height="70"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
